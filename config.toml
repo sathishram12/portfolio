@@ -78,7 +78,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 
     [languages.De]
-        languagename = "De"
+        languagename = "Deutsch"
         title = "Sathish Ram Murugan"
 
         [languages.De.params]
@@ -90,12 +90,12 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
         [languages.De.menu]
 
             [[languages.De.menu.main]]
-            name = "Sathish Ram Murugan"
+            name = "Über"
             weight = 1.0
             url = "De/about"
 
             [[languages.De.menu.main]]
-            name = "hi"
+            name = "Beiträge"
             weight = 2.0
             url = "ja/posts"
 
