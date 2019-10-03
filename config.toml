@@ -1,4 +1,4 @@
-baseurl = "http://www.sathish.dev" # Hostname (and path) to the root.
+baseurl = "https://sathishram12.github.io/portfolio-hugo/" # Hostname (and path) to the root.
 title = "Sathish Ram Murugan" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
@@ -15,10 +15,10 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Sathish Ram Murugan" # Author's name.
-    info = "WEB AND APPS ENGINEER" # Author's job title or info.
-    description = "Sathish Ram Murugan's personal website" # Site description.
+    info = "IoT Engineer and AI Enthusiast" # Author's job title or info.
+    description = "Sathish Ram Murugan's portfolio" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/sathish.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "Enter a text here." # Add footer content
     fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
@@ -61,7 +61,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
         [languages.en.params]
         author = "Sathish Ram Murugan"
         info = "IoT Engineer and AI enthusiast"
-        description = "Sathish Ram Murugan's personal website"
+        description = "Sathish Ram Murugan's portfolio"
         keywords = "blog,developer,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
@@ -77,25 +77,25 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
         url = "posts"
 
 
-    [languages.ja]
-        languagename = "Japanese"
-        title = "石見 優丞"
+    [languages.De]
+        languagename = "De"
+        title = "Sathish Ram Murugan"
 
-        [languages.ja.params]
-            author = "石見 優丞"
-            description = "石見 優丞のサイト"
-            keywords = "blog,developer, ブログ, エンジニア"
-            info = "WEBとアプリのエンジニア"
+        [languages.De.params]
+            author = "Sathish Ram Murugan"
+            description = "Sathish Ram Murugan's portfolio"
+            keywords = "blog,Entwickler, persönlich"
+            info = "IoT-Ingenieur und KI-Enthusiast"
 
-        [languages.ja.menu]
+        [languages.De.menu]
 
-            [[languages.ja.menu.main]]
-            name = "石見とは"
+            [[languages.De.menu.main]]
+            name = "Sathish Ram Murugan"
             weight = 1.0
-            url = "ja/about"
+            url = "De/about"
 
-            [[languages.ja.menu.main]]
-            name = "ブログ"
+            [[languages.De.menu.main]]
+            name = "hi"
             weight = 2.0
             url = "ja/posts"
 
@@ -104,12 +104,12 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/naro143/"
+    url = "https://github.com/sathishram12"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 2
-    url = "https://twitter.com/naro143/"
+    url = ""
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"

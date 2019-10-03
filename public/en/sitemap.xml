@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.sathish.dev/categories/</loc>
+    <loc>https://sathishram12.github.io/portfolio-hugo/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://www.sathish.dev/ja/categories/"
+                hreflang="de"
+                href="https://sathishram12.github.io/portfolio-hugo/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.sathish.dev/categories/"
+                href="https://sathishram12.github.io/portfolio-hugo/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.sathish.dev/</loc>
+    <loc>https://sathishram12.github.io/portfolio-hugo/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://www.sathish.dev/ja/"
+                hreflang="de"
+                href="https://sathishram12.github.io/portfolio-hugo/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.sathish.dev/"
+                href="https://sathishram12.github.io/portfolio-hugo/"
                 />
   </url>
   
   <url>
-    <loc>http://www.sathish.dev/tags/</loc>
+    <loc>https://sathishram12.github.io/portfolio-hugo/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://www.sathish.dev/ja/tags/"
+                hreflang="de"
+                href="https://sathishram12.github.io/portfolio-hugo/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.sathish.dev/tags/"
+                href="https://sathishram12.github.io/portfolio-hugo/tags/"
                 />
   </url>
   

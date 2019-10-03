@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sathishram12.github.io/portfolio-hugo/ja/categories/</loc>
+    <loc>https://sathishram12.github.io/portfolio-hugo/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,27 +11,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://sathishram12.github.io/portfolio-hugo/ja/categories/"
+                hreflang="de"
+                href="https://sathishram12.github.io/portfolio-hugo/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://sathishram12.github.io/portfolio-hugo/ja/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sathishram12.github.io/portfolio-hugo/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://sathishram12.github.io/portfolio-hugo/ja/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sathishram12.github.io/portfolio-hugo/ja/</loc>
+    <loc>https://sathishram12.github.io/portfolio-hugo/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,8 +25,22 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://sathishram12.github.io/portfolio-hugo/ja/"
+                hreflang="de"
+                href="https://sathishram12.github.io/portfolio-hugo/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sathishram12.github.io/portfolio-hugo/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sathishram12.github.io/portfolio-hugo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sathishram12.github.io/portfolio-hugo/de/tags/"
                 />
   </url>
   
